@@ -1,0 +1,12 @@
+credentials.txt
+venv/
+__pycache__/
+*.log
+*.pyc
+output_images/
+web_temp/
+responded_cache.json
+system_status.json
+final_stats.json
+interaction_log.jsonl
+*.xlsx
